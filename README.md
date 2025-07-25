@@ -1,8 +1,3 @@
-Berikut adalah **isi lengkap `README.md`** versi lucu, nyeleneh, tapi tetap informatif—siap kamu copy-paste langsung ke GitHub:
-
----
-
-````markdown
 # 🐫 SPHINX101 - Alat Pemburu Shell & Celah Web
 
 **SPHINX101** adalah alat sakti mandraguna berbasis Python untuk mengendus keberadaan shell backdoor, RCE, file backup, dan berbagai kerentanan web **secepat kamu ngedeteksi mantan stalking IG kamu**.
@@ -45,6 +40,7 @@ Berikut adalah **isi lengkap `README.md`** versi lucu, nyeleneh, tapi tetap info
 
 ```bash
 pip install -r requirements.txt
+
 ````
 
 2. **Bikin file `list.txt`** berisi daftar domain. Satu domain per baris.
