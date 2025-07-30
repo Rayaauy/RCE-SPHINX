@@ -106,5 +106,3 @@ Kalau kamu pakai alat ini dan dapat bug bounty...
 
 Made with 💀 by **sphinx101.gov.id** team
 Untuk dunia pentest yang lebih terbuka dan lucu
-
-```
